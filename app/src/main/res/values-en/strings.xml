@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Homework341</string>
+    <string name="name">Come As You Are</string>
+    <string name="author">Nirvana</string>
+    <string name="main_text">
+        Come as you are, as you were\n
+        As I want you to be\n
+        As a friend, as a friend,\n
+        As an old enemy\n
+        Take your time, hurry up\n
+        The choice is your,\n
+        Don\'t be late, take a rest\n
+        As a friend\n
+        As an old memoria\n\n
+        Come dowsed in mud, soaked in bleach\n
+        As I want you to be\n
+        As a trend, as a friend,\n
+        As an old memoria\n\n
+        And I swear\n
+        That I don\'t have a gun\n
+        No I don\'t have a gun
+    </string>
+    <string name="btn_changename">Apply</string>
+    <string name="label_lang">Select language</string>
+    <string name="label_theme">Select theme</string>
+    <string-array name="lang">
+        <item>Russinan</item>
+        <item>English</item>
+    </string-array>
+    <string-array name="color">
+        <item>Black</item>
+        <item>Green</item>
+        <item>Blue</item>
+    </string-array>
+</resources>

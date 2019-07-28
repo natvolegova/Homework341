@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Homework341</string>
+    <string name="name">Приди как есть</string>
+    <string name="author">Nirvana</string>
+    <string name="main_text">Заходи, как ты есть, каким ты был\n
+                            Я в любом случает тебе рад.\n
+                            Заходи как друг, как друган,\n
+                            Хоть даже как давний враг.\n
+                            Не спеша или торопясь -\n
+                            Тебе выбирать.\n
+                            Не опаздывай, давай отдохнем,\n
+                            Как друзья,\n
+                            Как старинные друзья...\n\n
+                            Заваливай, хоть в дер*ме, хоть пропитанный бухлом,\n
+                            Я, по-любому, за тебя,\n
+                            Как это обычно бывало, как друг,\n
+                            Как старинный друган....\n\n
+                            И я даю слово, все будет зашибись.\n
+                            Я не держу зла, пошли все обиды к чертям.\n
+                            Пошло все к чертям!
+    </string>
+    <string name="btn_changename">Применить</string>
+    <string name="label_lang">Выберите язык</string>
+    <string name="label_theme">Выберите тему</string>
+    <string-array name="lang">
+        <item>Русский</item>
+        <item>Английский</item>
+    </string-array>
+    <string-array name="color">
+        <item>Черный</item>
+        <item>Зеленый</item>
+        <item>Синий</item>
+    </string-array>
+</resources>
